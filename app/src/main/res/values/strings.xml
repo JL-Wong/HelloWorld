@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="my_name">JL</string>
+    <string name="show_button">Show</string>
+    <string name="hide_button">Hide</string>
+    <string name="my_qr">My QR Code</string>
+</resources>
